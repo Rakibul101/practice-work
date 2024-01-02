@@ -1,19 +1,24 @@
 .header{
-    height: 300px;
-    background-image: url('download.jpeg');
+    height: 200px;
+    background-image: url('nature.jpg');
     background-repeat:no-repeat;
-    background-size: cover;
+    background-size:cover;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
 }
 
 h3{
     font-size: 30px;
 }
 .blog{
+    text-align: center;
     margin: 10px;
     border: 5px solid red;
     border-radius: 5px;
     box-shadow: 10px 10px 10px violet;
 }
+
 .second{
     /* display: none; */
     /* visibility: hidden; */
