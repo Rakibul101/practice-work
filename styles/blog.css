@@ -1,0 +1,23 @@
+.header{
+    height: 300px;
+    background-image: url('download.jpeg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+h3{
+    font-size: 30px;
+}
+.blog{
+    margin: 10px;
+    border: 5px solid red;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px violet;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+li{
+    /* display:inline; */
+}
